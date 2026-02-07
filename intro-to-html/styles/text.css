@@ -1,0 +1,43 @@
+      p{
+      font-family: Montserrat;
+      margin-top: 0;
+      margin-bottom: 0;
+      }
+      .title{
+        font-size: 18px;
+        font-weight: bold;
+        width: 300px;
+        margin-bottom: 8px;
+      }
+      .stats{
+        color: rgb(87, 87, 87);
+        font-size: 14px;
+        margin-bottom: 15px;
+      }
+      .author{
+        color: rgb(87, 87, 87);
+        font-size: 14px;
+        margin-bottom: 15px;
+      }
+      .description{
+        width: 280px;
+        color: rgb(87, 87, 87);
+        font-size: 14px;
+        margin-bottom: 100px;
+        line-height: 22px;
+        
+      }
+      .apple-title{
+        margin-bottom: 10px;
+        background-color: rgb(227, 65, 64);
+        color: white;
+        padding: 15px 20px;
+        /* width: 350px; */
+        text-align: center;
+        font-size: 14px;
+      }
+      .shopnow:hover{
+        text-decoration: underline;
+        cursor: pointer;
+      }
+    
